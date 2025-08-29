@@ -1,0 +1,7 @@
+{
+  "name": "Creative Suite AI",
+  "description": "An AI-powered creative suite for generating and editing mockups, ad creatives, images, and videos. Features include a Magic Editor for text-based image manipulation, a Video Synthesizer, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
